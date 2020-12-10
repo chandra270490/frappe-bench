@@ -1484,3 +1484,6 @@ Queued events for site site1.local
 [DEBUG] 2020-12-11 00:28:26,919 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
+[DEBUG] 2020-12-11 00:29:27,085 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
