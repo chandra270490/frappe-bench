@@ -16375,3 +16375,339 @@ Traceback (most recent call last):
     raise errorclass(errno, errval)
 pymysql.err.InternalError: (1054, "Unknown column 'tabWork Order.workflow_state' in 'where clause'")
 00:28:27 Moving job to 'failed' queue
+00:32:27 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.queue.flush', kwargs={}, method='frappe.email.queue.flush', site='site1.local', user='Administrator') (33623fc3-c880-4d89-a313-dac122289a02)
+00:32:27 short: Job OK (33623fc3-c880-4d89-a313-dac122289a02)
+00:32:27 Result is kept for 500 seconds
+00:32:27 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.doctype.email_account.email_account.pull', kwargs={}, method='frappe.email.doctype.email_account.email_account.pull', site='site1.local', user='Administrator') (c9b5b950-5abf-4c4f-8012-1462db05036e)
+00:32:27 short: Job OK (c9b5b950-5abf-4c4f-8012-1462db05036e)
+00:32:27 Result is kept for 500 seconds
+00:32:27 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method='frappe.email.doctype.email_account.email_account.notify_unreplied', site='site1.local', user='Administrator') (8bf39ae3-4ac4-4d54-bae9-b3b2995fee50)
+00:32:27 short: Job OK (8bf39ae3-4ac4-4d54-bae9-b3b2995fee50)
+00:32:27 Result is kept for 500 seconds
+00:32:27 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.oauth.delete_oauth2_data', kwargs={}, method='frappe.oauth.delete_oauth2_data', site='site1.local', user='Administrator') (4e688bfd-f9da-47fa-b76f-6c62e3328de6)
+00:32:27 short: Job OK (4e688bfd-f9da-47fa-b76f-6c62e3328de6)
+00:32:27 Result is kept for 500 seconds
+00:32:27 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method='frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site='site1.local', user='Administrator') (638b4718-be81-403a-86e1-906db417b39a)
+00:32:28 short: Job OK (638b4718-be81-403a-86e1-906db417b39a)
+00:32:28 Result is kept for 500 seconds
+00:32:28 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.twofactor.delete_all_barcodes_for_users', kwargs={}, method='frappe.twofactor.delete_all_barcodes_for_users', site='site1.local', user='Administrator') (bfe93bbc-e673-4830-b8d4-cbf3a3bdcab9)
+00:32:28 short: Job OK (bfe93bbc-e673-4830-b8d4-cbf3a3bdcab9)
+00:32:28 Result is kept for 500 seconds
+00:32:28 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.website.doctype.web_page.web_page.check_publish_status', kwargs={}, method='frappe.website.doctype.web_page.web_page.check_publish_status', site='site1.local', user='Administrator') (6a5f4925-6412-42b0-b1d1-115a31d095e1)
+00:32:28 short: Job OK (6a5f4925-6412-42b0-b1d1-115a31d095e1)
+00:32:28 Result is kept for 500 seconds
+00:32:28 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.utils.global_search.sync_global_search', kwargs={}, method='frappe.utils.global_search.sync_global_search', site='site1.local', user='Administrator') (dad04d33-0df9-4eef-8623-8a5dcd6542be)
+00:32:28 short: Job OK (dad04d33-0df9-4eef-8623-8a5dcd6542be)
+00:32:28 Result is kept for 500 seconds
+00:32:28 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.monitor.flush', kwargs={}, method='frappe.monitor.flush', site='site1.local', user='Administrator') (9dfa90e6-20fe-4879-a083-b2dd6507edbf)
+00:32:28 short: Job OK (9dfa90e6-20fe-4879-a083-b2dd6507edbf)
+00:32:28 Result is kept for 500 seconds
+00:32:28 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='erpnext.projects.doctype.project.project.project_status_update_reminder', kwargs={}, method='erpnext.projects.doctype.project.project.project_status_update_reminder', site='site1.local', user='Administrator') (6bbe9b43-5835-4c19-9e3e-420d198b99f2)
+00:32:28 short: Job OK (6bbe9b43-5835-4c19-9e3e-420d198b99f2)
+00:32:28 Result is kept for 500 seconds
+00:32:28 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='erpnext.healthcare.doctype.patient_appointment.patient_appointment.set_appointment_reminder', kwargs={}, method='erpnext.healthcare.doctype.patient_appointment.patient_appointment.set_appointment_reminder', site='site1.local', user='Administrator') (0f343c55-ef0e-4fd7-99cc-20b5f6f34b06)
+00:32:28 short: Job OK (0f343c55-ef0e-4fd7-99cc-20b5f6f34b06)
+00:32:28 Result is kept for 500 seconds
+00:32:28 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pni_customization.utils.update_work_order_state', kwargs={}, method='pni_customization.utils.update_work_order_state', site='site1.local', user='Administrator') (d5184058-44c7-4735-aa7b-84cac7c796e9)
+00:32:28 pymysql.err.InternalError: (1054, "Unknown column 'tabWork Order.workflow_state' in 'where clause'")
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/rq/worker.py", line 793, in perform_job
+    rv = job.perform()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/rq/job.py", line 599, in perform
+    self._result = self._execute()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/rq/job.py", line 605, in _execute
+    return self.func(*self.args, **self.kwargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 102, in execute_job
+    method(**kwargs)
+  File "/home/erpnext2/frappe-bench/apps/pni_customization/pni_customization/utils.py", line 439, in update_work_order_state
+    ], fields=['name'])
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1327, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1300, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/model/db_query.py", line 96, in execute
+    result = self.build_and_run()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/model/db_query.py", line 130, in build_and_run
+    return frappe.db.sql(query, as_dict=not self.as_list, debug=self.debug, update=self.update)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/database/database.py", line 171, in sql
+    self._cursor.execute(query)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'tabWork Order.workflow_state' in 'where clause'")
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/rq/worker.py", line 793, in perform_job
+    rv = job.perform()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/rq/job.py", line 599, in perform
+    self._result = self._execute()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/rq/job.py", line 605, in _execute
+    return self.func(*self.args, **self.kwargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 102, in execute_job
+    method(**kwargs)
+  File "/home/erpnext2/frappe-bench/apps/pni_customization/pni_customization/utils.py", line 439, in update_work_order_state
+    ], fields=['name'])
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1327, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1300, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/model/db_query.py", line 96, in execute
+    result = self.build_and_run()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/model/db_query.py", line 130, in build_and_run
+    return frappe.db.sql(query, as_dict=not self.as_list, debug=self.debug, update=self.update)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/database/database.py", line 171, in sql
+    self._cursor.execute(query)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'tabWork Order.workflow_state' in 'where clause'")
+00:32:28 Moving job to 'failed' queue
+00:36:28 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.queue.flush', kwargs={}, method='frappe.email.queue.flush', site='site1.local', user='Administrator') (c3fd49ac-ed77-41ef-8d6c-d10a4b5d9047)
+00:36:28 short: Job OK (c3fd49ac-ed77-41ef-8d6c-d10a4b5d9047)
+00:36:28 Result is kept for 500 seconds
+00:36:28 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.doctype.email_account.email_account.pull', kwargs={}, method='frappe.email.doctype.email_account.email_account.pull', site='site1.local', user='Administrator') (2895cd63-c3fc-45cf-9e3e-e947838dca4d)
+00:36:28 short: Job OK (2895cd63-c3fc-45cf-9e3e-e947838dca4d)
+00:36:28 Result is kept for 500 seconds
+00:36:28 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method='frappe.email.doctype.email_account.email_account.notify_unreplied', site='site1.local', user='Administrator') (12650b55-879f-4a22-ad84-f491f366c831)
+00:36:28 short: Job OK (12650b55-879f-4a22-ad84-f491f366c831)
+00:36:28 Result is kept for 500 seconds
+00:36:28 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.oauth.delete_oauth2_data', kwargs={}, method='frappe.oauth.delete_oauth2_data', site='site1.local', user='Administrator') (ed449354-752e-4ed7-82b3-b0ea4a768378)
+00:36:28 short: Job OK (ed449354-752e-4ed7-82b3-b0ea4a768378)
+00:36:28 Result is kept for 500 seconds
+00:36:28 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method='frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site='site1.local', user='Administrator') (cfda8776-2c52-4e96-a054-a925ab88a925)
+00:36:28 short: Job OK (cfda8776-2c52-4e96-a054-a925ab88a925)
+00:36:28 Result is kept for 500 seconds
+00:36:28 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.twofactor.delete_all_barcodes_for_users', kwargs={}, method='frappe.twofactor.delete_all_barcodes_for_users', site='site1.local', user='Administrator') (ccea28aa-912c-4cf6-b322-2143b26650ff)
+00:36:28 short: Job OK (ccea28aa-912c-4cf6-b322-2143b26650ff)
+00:36:28 Result is kept for 500 seconds
+00:36:28 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.website.doctype.web_page.web_page.check_publish_status', kwargs={}, method='frappe.website.doctype.web_page.web_page.check_publish_status', site='site1.local', user='Administrator') (576fc447-f468-45e5-a41a-bec14164d383)
+00:36:28 short: Job OK (576fc447-f468-45e5-a41a-bec14164d383)
+00:36:28 Result is kept for 500 seconds
+00:36:28 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.utils.global_search.sync_global_search', kwargs={}, method='frappe.utils.global_search.sync_global_search', site='site1.local', user='Administrator') (975aa44f-f0d7-405b-a16d-350622648d2d)
+00:36:28 short: Job OK (975aa44f-f0d7-405b-a16d-350622648d2d)
+00:36:28 Result is kept for 500 seconds
+00:36:29 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.monitor.flush', kwargs={}, method='frappe.monitor.flush', site='site1.local', user='Administrator') (a8e8be6a-c293-4bd4-b5d5-176f07046424)
+00:36:29 short: Job OK (a8e8be6a-c293-4bd4-b5d5-176f07046424)
+00:36:29 Result is kept for 500 seconds
+00:36:29 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='erpnext.projects.doctype.project.project.project_status_update_reminder', kwargs={}, method='erpnext.projects.doctype.project.project.project_status_update_reminder', site='site1.local', user='Administrator') (9d6dff76-5557-4cf8-bc41-48fcb05c3113)
+00:36:29 short: Job OK (9d6dff76-5557-4cf8-bc41-48fcb05c3113)
+00:36:29 Result is kept for 500 seconds
+00:36:29 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='erpnext.healthcare.doctype.patient_appointment.patient_appointment.set_appointment_reminder', kwargs={}, method='erpnext.healthcare.doctype.patient_appointment.patient_appointment.set_appointment_reminder', site='site1.local', user='Administrator') (3ecfe037-683b-412f-b0bc-59af5f87280c)
+00:36:29 short: Job OK (3ecfe037-683b-412f-b0bc-59af5f87280c)
+00:36:29 Result is kept for 500 seconds
+00:36:29 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pni_customization.utils.update_work_order_state', kwargs={}, method='pni_customization.utils.update_work_order_state', site='site1.local', user='Administrator') (6d8f7d30-7e5e-4811-bb66-52e2572b7789)
+00:36:29 pymysql.err.InternalError: (1054, "Unknown column 'tabWork Order.workflow_state' in 'where clause'")
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/rq/worker.py", line 793, in perform_job
+    rv = job.perform()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/rq/job.py", line 599, in perform
+    self._result = self._execute()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/rq/job.py", line 605, in _execute
+    return self.func(*self.args, **self.kwargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 102, in execute_job
+    method(**kwargs)
+  File "/home/erpnext2/frappe-bench/apps/pni_customization/pni_customization/utils.py", line 439, in update_work_order_state
+    ], fields=['name'])
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1327, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1300, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/model/db_query.py", line 96, in execute
+    result = self.build_and_run()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/model/db_query.py", line 130, in build_and_run
+    return frappe.db.sql(query, as_dict=not self.as_list, debug=self.debug, update=self.update)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/database/database.py", line 171, in sql
+    self._cursor.execute(query)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'tabWork Order.workflow_state' in 'where clause'")
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/rq/worker.py", line 793, in perform_job
+    rv = job.perform()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/rq/job.py", line 599, in perform
+    self._result = self._execute()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/rq/job.py", line 605, in _execute
+    return self.func(*self.args, **self.kwargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 102, in execute_job
+    method(**kwargs)
+  File "/home/erpnext2/frappe-bench/apps/pni_customization/pni_customization/utils.py", line 439, in update_work_order_state
+    ], fields=['name'])
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1327, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1300, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/model/db_query.py", line 96, in execute
+    result = self.build_and_run()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/model/db_query.py", line 130, in build_and_run
+    return frappe.db.sql(query, as_dict=not self.as_list, debug=self.debug, update=self.update)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/database/database.py", line 171, in sql
+    self._cursor.execute(query)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'tabWork Order.workflow_state' in 'where clause'")
+00:36:29 Moving job to 'failed' queue
+00:40:28 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.queue.flush', kwargs={}, method='frappe.email.queue.flush', site='site1.local', user='Administrator') (b374c1f1-4684-4c32-980c-97ab4a4e8fda)
+00:40:29 short: Job OK (b374c1f1-4684-4c32-980c-97ab4a4e8fda)
+00:40:29 Result is kept for 500 seconds
+00:40:29 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.doctype.email_account.email_account.pull', kwargs={}, method='frappe.email.doctype.email_account.email_account.pull', site='site1.local', user='Administrator') (f531361a-2816-4295-8c1b-1081006f7971)
+00:40:29 short: Job OK (f531361a-2816-4295-8c1b-1081006f7971)
+00:40:29 Result is kept for 500 seconds
+00:40:29 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method='frappe.email.doctype.email_account.email_account.notify_unreplied', site='site1.local', user='Administrator') (24890789-0bd1-4c24-ba99-c1699d4d6bc1)
+00:40:29 short: Job OK (24890789-0bd1-4c24-ba99-c1699d4d6bc1)
+00:40:29 Result is kept for 500 seconds
+00:40:29 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.oauth.delete_oauth2_data', kwargs={}, method='frappe.oauth.delete_oauth2_data', site='site1.local', user='Administrator') (e1329776-9ee4-43c1-9c84-fa3c60014acc)
+00:40:29 short: Job OK (e1329776-9ee4-43c1-9c84-fa3c60014acc)
+00:40:29 Result is kept for 500 seconds
+00:40:29 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method='frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site='site1.local', user='Administrator') (2412fb50-8579-47ee-ae40-803ca18c6502)
+00:40:29 short: Job OK (2412fb50-8579-47ee-ae40-803ca18c6502)
+00:40:29 Result is kept for 500 seconds
+00:40:29 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.twofactor.delete_all_barcodes_for_users', kwargs={}, method='frappe.twofactor.delete_all_barcodes_for_users', site='site1.local', user='Administrator') (ebbc5996-972b-4a4c-82fe-79b09c394ed2)
+00:40:29 short: Job OK (ebbc5996-972b-4a4c-82fe-79b09c394ed2)
+00:40:29 Result is kept for 500 seconds
+00:40:29 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.website.doctype.web_page.web_page.check_publish_status', kwargs={}, method='frappe.website.doctype.web_page.web_page.check_publish_status', site='site1.local', user='Administrator') (7348e338-dee2-4bac-aa54-f51b4cc38280)
+00:40:29 short: Job OK (7348e338-dee2-4bac-aa54-f51b4cc38280)
+00:40:29 Result is kept for 500 seconds
+00:40:29 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.utils.global_search.sync_global_search', kwargs={}, method='frappe.utils.global_search.sync_global_search', site='site1.local', user='Administrator') (57844e4e-7a02-4ae9-b5fe-3bcad67fd027)
+00:40:29 short: Job OK (57844e4e-7a02-4ae9-b5fe-3bcad67fd027)
+00:40:29 Result is kept for 500 seconds
+00:40:29 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.monitor.flush', kwargs={}, method='frappe.monitor.flush', site='site1.local', user='Administrator') (1aca1b72-a36c-4989-9ca9-e5db3f75a568)
+00:40:29 short: Job OK (1aca1b72-a36c-4989-9ca9-e5db3f75a568)
+00:40:29 Result is kept for 500 seconds
+00:40:29 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='erpnext.projects.doctype.project.project.project_status_update_reminder', kwargs={}, method='erpnext.projects.doctype.project.project.project_status_update_reminder', site='site1.local', user='Administrator') (2196f080-3479-4b33-86c3-99464d750003)
+00:40:29 short: Job OK (2196f080-3479-4b33-86c3-99464d750003)
+00:40:29 Result is kept for 500 seconds
+00:40:29 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='erpnext.healthcare.doctype.patient_appointment.patient_appointment.set_appointment_reminder', kwargs={}, method='erpnext.healthcare.doctype.patient_appointment.patient_appointment.set_appointment_reminder', site='site1.local', user='Administrator') (4b0d5910-720d-4f37-84f1-a2580e001084)
+00:40:30 short: Job OK (4b0d5910-720d-4f37-84f1-a2580e001084)
+00:40:30 Result is kept for 500 seconds
+00:40:30 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pni_customization.utils.update_work_order_state', kwargs={}, method='pni_customization.utils.update_work_order_state', site='site1.local', user='Administrator') (d42f03b3-6249-43c7-bfb0-a70b0d7e73b2)
+00:40:30 pymysql.err.InternalError: (1054, "Unknown column 'tabWork Order.workflow_state' in 'where clause'")
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/rq/worker.py", line 793, in perform_job
+    rv = job.perform()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/rq/job.py", line 599, in perform
+    self._result = self._execute()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/rq/job.py", line 605, in _execute
+    return self.func(*self.args, **self.kwargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 102, in execute_job
+    method(**kwargs)
+  File "/home/erpnext2/frappe-bench/apps/pni_customization/pni_customization/utils.py", line 439, in update_work_order_state
+    ], fields=['name'])
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1327, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1300, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/model/db_query.py", line 96, in execute
+    result = self.build_and_run()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/model/db_query.py", line 130, in build_and_run
+    return frappe.db.sql(query, as_dict=not self.as_list, debug=self.debug, update=self.update)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/database/database.py", line 171, in sql
+    self._cursor.execute(query)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'tabWork Order.workflow_state' in 'where clause'")
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/rq/worker.py", line 793, in perform_job
+    rv = job.perform()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/rq/job.py", line 599, in perform
+    self._result = self._execute()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/rq/job.py", line 605, in _execute
+    return self.func(*self.args, **self.kwargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 102, in execute_job
+    method(**kwargs)
+  File "/home/erpnext2/frappe-bench/apps/pni_customization/pni_customization/utils.py", line 439, in update_work_order_state
+    ], fields=['name'])
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1327, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1300, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/model/db_query.py", line 96, in execute
+    result = self.build_and_run()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/model/db_query.py", line 130, in build_and_run
+    return frappe.db.sql(query, as_dict=not self.as_list, debug=self.debug, update=self.update)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/database/database.py", line 171, in sql
+    self._cursor.execute(query)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'tabWork Order.workflow_state' in 'where clause'")
+00:40:30 Moving job to 'failed' queue
