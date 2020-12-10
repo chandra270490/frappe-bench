@@ -1,0 +1,15 @@
+/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/OpenSSL/crypto.py:12: CryptographyDeprecationWarning: Python 3.5 support will be dropped in the next release of cryptography. Please upgrade your Python.
+  from cryptography import x509
+Backup Summary at 2020-12-07 12:00:09.555644
+--------------------------------------------
+Database backup: ./site1.local/private/backups/20201207_120006-site1_local-database.sql.gz
+/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/OpenSSL/crypto.py:12: CryptographyDeprecationWarning: Python 3.5 support will be dropped in the next release of cryptography. Please upgrade your Python.
+  from cryptography import x509
+Backup Summary at 2020-12-10 12:00:11.250007
+--------------------------------------------
+Database backup: ./site1.local/private/backups/20201210_120005-site1_local-database.sql.gz
+/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/OpenSSL/crypto.py:12: CryptographyDeprecationWarning: Python 3.5 support will be dropped in the next release of cryptography. Please upgrade your Python.
+  from cryptography import x509
+Backup Summary at 2020-12-11 00:00:24.736609
+--------------------------------------------
+Database backup: ./site1.local/private/backups/20201211_000011-site1_local-database.sql.gz

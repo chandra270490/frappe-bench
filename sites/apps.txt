@@ -1,0 +1,6 @@
+frappe
+erpnext
+process_manufacturing
+pni_customization
+hr_policies
+pni_report_dashboard
