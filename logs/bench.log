@@ -135,3 +135,22 @@
 2020-12-10 23:47:52,238 INFO /usr/local/bin/bench worker --queue short
 2020-12-10 23:47:52,267 INFO /usr/local/bin/bench worker --queue default
 2020-12-11 00:00:03,197 INFO /usr/local/bin/bench --verbose --site all backup
+2020-12-11 10:47:37,761 INFO /usr/local/bin/bench worker --queue short
+2020-12-11 10:47:37,768 INFO /usr/local/bin/bench worker --queue long
+2020-12-11 10:47:37,784 INFO /usr/local/bin/bench schedule
+2020-12-11 10:47:37,825 INFO /usr/local/bin/bench worker --queue default
+2020-12-11 12:00:01,644 INFO /usr/local/bin/bench --verbose --site all backup
+2020-12-12 09:14:49,403 INFO /usr/local/bin/bench worker --queue long
+2020-12-12 09:14:49,409 INFO /usr/local/bin/bench worker --queue default
+2020-12-12 09:14:49,416 INFO /usr/local/bin/bench schedule
+2020-12-12 09:14:49,509 INFO /usr/local/bin/bench worker --queue short
+2020-12-14 09:57:08,869 INFO /usr/local/bin/bench worker --queue default
+2020-12-14 09:57:08,953 INFO /usr/local/bin/bench worker --queue short
+2020-12-14 09:57:08,989 INFO /usr/local/bin/bench schedule
+2020-12-14 09:57:09,961 INFO /usr/local/bin/bench worker --queue long
+2020-12-14 12:00:02,216 INFO /usr/local/bin/bench --verbose --site all backup
+2020-12-16 09:35:14,457 INFO /usr/local/bin/bench worker --queue long
+2020-12-16 09:35:14,490 INFO /usr/local/bin/bench worker --queue short
+2020-12-16 09:35:14,552 INFO /usr/local/bin/bench schedule
+2020-12-16 09:35:14,560 INFO /usr/local/bin/bench worker --queue default
+2020-12-16 12:00:02,103 INFO /usr/local/bin/bench --verbose --site all backup

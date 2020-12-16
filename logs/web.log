@@ -1,0 +1,290 @@
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 61, in execute_cmd
+    is_whitelisted(method)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 71, in is_whitelisted
+    raise frappe.PermissionError('Not Allowed, {0}'.format(method))
+frappe.exceptions.PermissionError: Not Allowed, <function get_dimension_filters at 0x7f21672c2ea0>
+
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 61, in execute_cmd
+    is_whitelisted(method)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 71, in is_whitelisted
+    raise frappe.PermissionError('Not Allowed, {0}'.format(method))
+frappe.exceptions.PermissionError: Not Allowed, <function get_user_permissions at 0x7f2167577d08>
+
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 61, in execute_cmd
+    is_whitelisted(method)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 71, in is_whitelisted
+    raise frappe.PermissionError('Not Allowed, {0}'.format(method))
+frappe.exceptions.PermissionError: Not Allowed, <function get_hooks at 0x7f2167b798c8>
+
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 61, in execute_cmd
+    is_whitelisted(method)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 71, in is_whitelisted
+    raise frappe.PermissionError('Not Allowed, {0}'.format(method))
+frappe.exceptions.PermissionError: Not Allowed, <function get_desktop_settings at 0x7f21672532f0>
+
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 61, in execute_cmd
+    is_whitelisted(method)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 71, in is_whitelisted
+    raise frappe.PermissionError('Not Allowed, {0}'.format(method))
+frappe.exceptions.PermissionError: Not Allowed, <function show_update_popup at 0x7f2167cac0d0>
+
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 61, in execute_cmd
+    is_whitelisted(method)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 71, in is_whitelisted
+    raise frappe.PermissionError('Not Allowed, {0}'.format(method))
+frappe.exceptions.PermissionError: Not Allowed, <function get_tags_list_for_awesomebar at 0x7f21671a76a8>
+
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 61, in execute_cmd
+    is_whitelisted(method)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 71, in is_whitelisted
+    raise frappe.PermissionError('Not Allowed, {0}'.format(method))
+frappe.exceptions.PermissionError: Not Allowed, <function create at 0x7f2167158268>
+
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 64, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1064, in call
+    return fn(*args, **newargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 536, in wrapper_fn
+    retval = fn(*args, **get_newargs(fn, kwargs))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 205, in run
+    result = generate_report_result(report, filters, user, custom_columns)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 65, in generate_report_result
+    res = report.execute_script_report(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 120, in execute_script_report
+    res = self.execute_module(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 137, in execute_module
+    return frappe.get_attr(method_name)(frappe._dict(filters))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1055, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 836, in get_module
+    return importlib.import_module(modulename)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 767, in get_code
+  File "<frozen importlib._bootstrap_external>", line 727, in source_to_code
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "/home/erpnext2/frappe-bench/apps/pni_report_dashboard/pni_report_dashboard/pni_report_dashboard/report/attendence_report_new/attendence_report_new.py", line 9
+    columns = get columns()
+                        ^
+SyntaxError: invalid syntax
+
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 64, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1064, in call
+    return fn(*args, **newargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 536, in wrapper_fn
+    retval = fn(*args, **get_newargs(fn, kwargs))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 205, in run
+    result = generate_report_result(report, filters, user, custom_columns)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 65, in generate_report_result
+    res = report.execute_script_report(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 120, in execute_script_report
+    res = self.execute_module(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 137, in execute_module
+    return frappe.get_attr(method_name)(frappe._dict(filters))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1055, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 836, in get_module
+    return importlib.import_module(modulename)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 767, in get_code
+  File "<frozen importlib._bootstrap_external>", line 727, in source_to_code
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "/home/erpnext2/frappe-bench/apps/pni_report_dashboard/pni_report_dashboard/pni_report_dashboard/report/attendence_report_new/attendence_report_new.py", line 9
+    columns = get columns()
+                        ^
+SyntaxError: invalid syntax
+
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 64, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1064, in call
+    return fn(*args, **newargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 536, in wrapper_fn
+    retval = fn(*args, **get_newargs(fn, kwargs))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 205, in run
+    result = generate_report_result(report, filters, user, custom_columns)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 65, in generate_report_result
+    res = report.execute_script_report(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 120, in execute_script_report
+    res = self.execute_module(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 137, in execute_module
+    return frappe.get_attr(method_name)(frappe._dict(filters))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1055, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 836, in get_module
+    return importlib.import_module(modulename)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 767, in get_code
+  File "<frozen importlib._bootstrap_external>", line 727, in source_to_code
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "/home/erpnext2/frappe-bench/apps/pni_report_dashboard/pni_report_dashboard/pni_report_dashboard/report/attendence_report_new/attendence_report_new.py", line 9
+    columns = get columns()
+                        ^
+SyntaxError: invalid syntax
+
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 64, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1064, in call
+    return fn(*args, **newargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 536, in wrapper_fn
+    retval = fn(*args, **get_newargs(fn, kwargs))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 205, in run
+    result = generate_report_result(report, filters, user, custom_columns)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 65, in generate_report_result
+    res = report.execute_script_report(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 120, in execute_script_report
+    res = self.execute_module(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 137, in execute_module
+    return frappe.get_attr(method_name)(frappe._dict(filters))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1055, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 836, in get_module
+    return importlib.import_module(modulename)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 767, in get_code
+  File "<frozen importlib._bootstrap_external>", line 727, in source_to_code
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "/home/erpnext2/frappe-bench/apps/pni_report_dashboard/pni_report_dashboard/pni_report_dashboard/report/attendence_report_new/attendence_report_new.py", line 9
+    columns = get columns()
+                        ^
+SyntaxError: invalid syntax
+
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 64, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1064, in call
+    return fn(*args, **newargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 536, in wrapper_fn
+    retval = fn(*args, **get_newargs(fn, kwargs))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 205, in run
+    result = generate_report_result(report, filters, user, custom_columns)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 65, in generate_report_result
+    res = report.execute_script_report(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 120, in execute_script_report
+    res = self.execute_module(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 137, in execute_module
+    return frappe.get_attr(method_name)(frappe._dict(filters))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1055, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 836, in get_module
+    return importlib.import_module(modulename)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 767, in get_code
+  File "<frozen importlib._bootstrap_external>", line 727, in source_to_code
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "/home/erpnext2/frappe-bench/apps/pni_report_dashboard/pni_report_dashboard/pni_report_dashboard/report/attendence_report_new/attendence_report_new.py", line 9
+    columns = get columns()
+                        ^
+SyntaxError: invalid syntax

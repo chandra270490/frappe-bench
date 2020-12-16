@@ -1,1528 +1,1449 @@
-[DEBUG] 2020-12-05 13:20:44,045 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:06:50,985 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:21:44,596 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:07:51,120 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:22:44,770 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:08:51,244 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:23:44,892 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:09:51,354 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:24:45,100 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:10:51,477 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:26:37,996 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:11:51,611 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:27:38,273 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:12:51,872 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:29:54,383 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:13:52,012 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:30:55,097 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:14:52,164 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:31:55,399 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:15:52,279 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:32:55,751 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:16:52,419 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:33:55,865 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:17:52,530 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:35:44,858 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:18:52,661 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:36:45,098 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:19:52,778 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:37:45,222 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:20:52,903 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:38:45,334 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:21:53,025 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:39:45,488 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:22:53,147 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:41:43,381 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:23:53,261 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:42:43,883 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:24:53,386 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:43:44,045 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:25:53,498 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:47:46,100 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:26:53,643 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:48:46,476 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:27:53,784 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:49:47,442 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:28:53,932 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:50:48,220 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-12 10:29:54,060 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:51:48,462 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 09:58:44,613 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:52:49,443 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 09:59:44,849 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:53:49,846 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:00:45,133 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:56:05,399 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:01:45,582 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:57:06,151 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:02:45,754 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:58:06,426 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:03:45,944 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 13:59:06,634 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:04:46,258 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:00:07,778 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:05:46,430 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:03:09,096 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:06:46,594 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:04:09,292 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:07:46,774 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:05:09,417 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:08:47,110 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:06:09,555 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:09:47,292 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:07:10,488 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:10:47,457 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:08:11,072 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:11:47,638 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:09:11,305 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:12:48,102 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:10:11,468 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:13:48,271 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:11:12,266 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:14:48,456 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:12:13,438 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:15:48,638 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:13:13,702 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:16:48,965 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:14:13,855 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:17:49,139 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:15:14,222 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:18:49,309 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:16:14,907 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:19:49,493 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:17:15,223 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:20:49,910 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:18:17,517 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:21:50,127 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:19:18,396 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:22:50,279 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:20:18,834 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:23:50,502 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:21:19,050 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:24:50,881 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:22:19,966 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:25:51,053 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:23:20,336 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:26:51,252 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:24:20,559 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:27:51,410 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:25:20,667 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:28:51,817 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-05 14:26:20,782 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:29:51,976 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:11:55,391 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:30:52,170 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:12:56,427 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:31:52,339 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:13:56,597 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:32:52,751 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:14:56,728 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:33:52,927 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:15:56,907 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:34:53,111 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:16:57,171 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:35:53,270 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:17:57,318 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:36:53,533 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:18:57,439 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:37:53,687 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:19:57,576 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:38:53,847 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:20:57,851 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:39:54,021 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:21:58,021 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:40:54,314 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:22:58,175 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:41:54,478 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:23:58,309 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:42:54,648 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:24:58,665 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:43:54,797 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:25:58,860 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:44:55,129 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:26:58,978 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:45:55,273 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:27:59,107 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:46:55,412 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:28:59,310 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:47:55,570 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:29:59,479 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:48:55,909 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:30:59,605 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:49:56,085 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:31:59,749 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:50:56,233 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:33:00,130 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:51:56,364 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:34:00,284 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:52:56,591 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:35:00,422 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:53:56,763 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:36:00,644 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:54:56,920 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:37:00,800 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:55:57,070 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:38:00,969 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:56:57,282 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:39:01,168 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:57:57,448 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:40:01,365 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:58:57,600 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:41:01,497 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 10:59:57,729 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:42:01,626 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:00:58,024 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:43:01,757 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:01:58,177 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:44:02,012 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:02:58,298 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:45:02,138 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:03:58,441 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:46:02,279 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:04:58,638 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:47:02,465 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:05:58,772 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:48:02,753 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:06:58,919 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:49:02,869 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:07:59,043 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:50:03,010 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:08:59,284 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:51:03,137 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:09:59,440 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:52:03,341 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:10:59,567 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:53:03,476 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:11:59,697 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:54:03,612 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:12:59,930 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:55:03,754 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:14:00,069 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:56:03,952 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:15:00,234 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:57:04,066 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:16:00,539 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:58:04,199 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:17:00,669 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 09:59:04,343 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:18:00,811 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:00:04,630 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:19:00,945 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:01:04,764 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:20:01,299 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:02:04,914 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:21:01,424 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:03:05,062 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:22:01,539 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:04:05,304 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:23:01,697 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:05:05,462 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:24:01,937 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:06:05,597 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:25:02,066 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:07:05,744 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:26:02,253 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:08:05,951 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:27:02,391 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:09:06,072 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:28:02,620 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:10:06,206 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:29:02,778 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:11:06,339 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:30:02,946 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:12:06,563 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:31:03,093 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:13:06,698 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:32:03,299 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:14:06,878 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:33:03,451 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:15:07,010 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:34:03,589 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:16:07,218 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:35:03,737 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:17:07,355 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:36:03,930 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:18:07,471 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:37:04,068 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:19:07,602 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:38:04,323 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:20:07,804 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:39:04,460 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:21:07,939 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:40:04,704 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:22:08,085 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:41:04,851 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:23:08,220 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:42:04,977 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:24:08,435 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:43:05,130 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:25:08,568 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:44:05,349 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:26:08,842 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:45:05,498 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:27:09,138 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:46:05,644 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:28:09,623 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:47:05,773 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:29:09,827 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:48:05,971 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:30:10,036 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:49:06,124 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:31:10,350 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:50:06,267 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:32:11,024 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:51:06,408 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:33:11,353 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:52:06,612 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:34:11,639 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:53:06,768 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:35:11,875 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:54:06,869 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:36:12,319 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:55:07,007 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:37:12,503 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:56:07,190 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:38:12,801 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:57:07,330 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:39:13,089 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:58:07,595 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:40:13,786 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 11:59:07,729 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:41:14,019 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:00:08,137 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:42:14,302 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:01:08,310 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:43:14,503 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:02:08,456 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:44:14,989 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:03:08,594 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:45:15,149 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:04:08,771 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:46:15,285 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:05:08,927 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:47:15,427 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:06:09,072 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:48:15,627 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:07:09,242 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:49:15,767 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:08:09,533 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:50:15,881 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:09:09,669 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:51:16,007 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:10:09,804 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:52:16,276 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:11:09,937 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:53:16,433 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:12:10,153 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:54:16,574 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:13:10,294 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:55:16,715 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:14:10,457 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:56:16,934 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:15:10,583 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:57:17,068 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:16:10,768 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:58:17,231 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:17:10,902 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 10:59:17,361 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:18:11,075 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:00:17,613 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:19:11,205 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:01:17,756 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:20:11,354 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:02:17,871 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:21:11,493 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:03:17,975 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:22:11,617 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:04:18,275 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:23:11,736 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:05:18,407 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:24:11,907 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:06:18,512 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:25:12,019 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:07:18,615 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:26:12,150 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:08:18,788 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:27:12,269 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:09:18,899 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:28:12,441 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:10:19,006 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:29:12,561 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:11:19,116 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:30:12,686 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:12:19,301 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:31:12,806 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:13:19,405 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:32:12,988 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:14:19,507 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:33:13,126 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:15:19,650 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:34:13,254 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:16:19,949 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:35:13,368 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:17:20,066 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:36:13,570 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:18:20,199 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:37:13,690 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:19:20,297 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:38:13,818 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:20:20,499 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:39:13,941 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:21:20,608 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:40:14,152 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:22:20,743 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:41:14,273 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:23:20,885 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:42:14,402 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:24:21,107 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:43:14,480 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:25:21,251 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:44:14,631 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:26:21,364 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:45:14,763 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:27:21,490 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:46:14,907 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:28:21,664 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:47:15,033 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:29:21,864 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:48:15,239 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:30:21,979 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:49:15,364 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:31:22,117 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:50:15,491 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:32:22,423 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:51:15,624 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:33:22,545 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:52:15,794 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:34:22,644 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:53:15,927 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:35:22,804 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:54:16,039 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:36:23,151 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:55:16,153 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:37:23,304 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:56:16,321 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:38:23,440 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:57:16,442 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:39:23,568 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:58:16,569 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:40:23,923 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 12:59:16,691 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:41:24,091 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-14 13:00:16,940 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:42:24,226 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:36:54,479 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:43:24,370 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:37:54,620 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:44:24,718 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:38:54,754 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:45:24,840 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:39:54,878 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:46:24,973 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:40:55,007 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:47:25,108 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:41:55,133 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:48:25,468 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:42:55,239 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:49:25,662 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:43:55,359 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:50:25,778 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:44:55,487 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:51:25,881 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:45:55,600 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:52:26,052 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:46:55,713 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:53:26,163 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:47:55,846 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:54:26,255 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:48:55,979 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:55:26,414 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:49:56,098 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:56:26,603 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:50:56,235 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:57:26,696 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:51:56,365 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:58:26,831 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:52:56,496 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 11:59:26,942 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:53:56,619 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:00:27,284 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:54:56,750 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:01:27,391 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:55:56,882 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:02:27,508 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:56:57,035 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:03:27,590 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:57:57,166 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:04:27,765 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:58:57,288 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:05:27,879 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 09:59:57,414 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:06:27,990 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:00:57,693 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:07:28,115 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:01:57,824 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:08:28,626 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:02:57,937 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:09:28,761 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:03:58,055 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:10:28,870 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:04:58,223 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:11:28,979 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:05:58,341 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:12:29,162 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:06:58,470 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:13:29,261 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:07:58,604 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:14:29,406 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:08:58,751 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:15:29,540 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:09:58,868 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:16:29,747 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:10:59,002 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:17:29,868 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:11:59,139 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:18:29,989 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:12:59,280 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:19:30,125 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:13:59,420 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:20:30,374 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:14:59,549 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:21:30,518 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:15:59,686 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:22:30,646 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:16:59,820 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:23:30,775 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:17:59,948 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:24:30,964 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:19:00,039 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:25:31,103 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:20:00,220 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:26:31,214 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:21:00,350 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:27:31,328 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:22:00,473 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:28:31,509 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:23:00,610 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:29:31,624 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:24:00,731 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:30:31,730 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:25:00,845 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:31:31,843 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:26:00,961 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:32:32,021 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:27:01,093 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:33:32,137 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:28:01,225 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:34:32,257 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:29:01,342 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:35:32,415 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:30:01,472 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:36:32,748 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:31:01,606 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:37:32,890 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:32:01,724 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:38:33,107 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:33:01,851 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:39:33,248 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:34:01,967 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:40:33,563 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:35:02,096 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:41:33,728 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:36:02,239 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:42:33,872 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:37:02,364 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:43:33,975 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:38:02,490 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:44:34,299 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:39:02,620 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:45:34,427 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:40:02,755 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:46:34,524 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:41:02,876 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:47:34,629 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:42:03,009 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:48:34,927 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:43:03,131 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:49:35,036 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:44:03,265 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:50:35,162 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:45:03,426 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:51:35,271 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:46:03,636 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:52:35,451 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:47:03,771 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:53:35,570 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:48:04,024 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:54:35,677 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:49:04,140 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:55:35,789 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:50:04,263 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:56:35,975 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:51:04,394 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:57:36,089 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:52:04,569 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:58:36,206 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:53:04,706 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 12:59:36,315 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:54:04,850 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 13:00:36,654 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:55:04,950 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[ERROR] 2020-12-07 13:01:36,748 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 10:56:05,169 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
-Exception in Enqueue Events for Site site1.local
+Queued events for site site1.local
+[DEBUG] 2020-12-16 10:57:05,411 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-12-16 10:58:05,539 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-12-16 10:59:05,700 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-12-16 11:00:05,951 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-12-16 11:01:06,068 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-12-16 11:02:06,199 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-12-16 11:03:06,325 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-12-16 11:04:06,642 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-12-16 11:05:06,759 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-12-16 11:06:06,889 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-12-16 11:07:07,050 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-12-16 11:08:07,270 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-12-16 11:09:07,396 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-12-16 11:10:07,505 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-12-16 11:11:07,607 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-12-16 11:12:07,795 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-12-16 11:13:07,938 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2020-12-16 11:13:33,982 | /home/erpnext2/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "cmd": "frappe.desk.query_report.run",
+ "filters": "{}",
+ "report_name": "Attendence Report New"
+}
+Request Error
 Traceback (most recent call last):
-  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 583, in connect
-    **kwargs)
-  File "/usr/lib/python3.5/socket.py", line 711, in create_connection
-    raise err
-  File "/usr/lib/python3.5/socket.py", line 702, in create_connection
-    sock.connect(sa)
-ConnectionRefusedError: [Errno 111] Connection refused
-
-During handling of the above exception, another exception occurred:
-
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 64, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1064, in call
+    return fn(*args, **newargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 536, in wrapper_fn
+    retval = fn(*args, **get_newargs(fn, kwargs))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 205, in run
+    result = generate_report_result(report, filters, user, custom_columns)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 65, in generate_report_result
+    res = report.execute_script_report(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 120, in execute_script_report
+    res = self.execute_module(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 137, in execute_module
+    return frappe.get_attr(method_name)(frappe._dict(filters))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1055, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 836, in get_module
+    return importlib.import_module(modulename)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 767, in get_code
+  File "<frozen importlib._bootstrap_external>", line 727, in source_to_code
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "/home/erpnext2/frappe-bench/apps/pni_report_dashboard/pni_report_dashboard/pni_report_dashboard/report/attendence_report_new/attendence_report_new.py", line 9
+    columns = get columns()
+                        ^
+SyntaxError: invalid syntax
+[ERROR] 2020-12-16 11:13:34,351 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-12-16 11:13:33.983107-127.0.0.1-ca7
+[ERROR] 2020-12-16 11:13:41,317 | /home/erpnext2/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "cmd": "frappe.desk.query_report.run",
+ "filters": "{}",
+ "report_name": "Attendence Report New"
+}
+Request Error
 Traceback (most recent call last):
-  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 81, in enqueue_events_for_site
-    if is_scheduler_inactive():
-  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 228, in is_scheduler_inactive
-    if is_scheduler_disabled():
-  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 237, in is_scheduler_disabled
-    return not frappe.utils.cint(frappe.db.get_single_value("System Settings", "enable_scheduler"))
-  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/database/database.py", line 553, in get_single_value
-    `tabSingles` where `doctype`=%s and `field`=%s""", (doctype, fieldname))
-  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/database/database.py", line 122, in sql
-    self.connect()
-  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/database/database.py", line 75, in connect
-    self._conn = self.get_connection()
-  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 90, in get_connection
-    local_infile = frappe.conf.local_infile)
-  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/__init__.py", line 94, in Connect
-    return Connection(*args, **kwargs)
-  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 325, in __init__
-    self.connect()
-  File "/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 630, in connect
-    raise exc
-pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on 'localhost' ([Errno 111] Connection refused)")
-
-[DEBUG] 2020-12-07 22:38:23,007 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 64, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1064, in call
+    return fn(*args, **newargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 536, in wrapper_fn
+    retval = fn(*args, **get_newargs(fn, kwargs))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 205, in run
+    result = generate_report_result(report, filters, user, custom_columns)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 65, in generate_report_result
+    res = report.execute_script_report(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 120, in execute_script_report
+    res = self.execute_module(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 137, in execute_module
+    return frappe.get_attr(method_name)(frappe._dict(filters))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1055, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 836, in get_module
+    return importlib.import_module(modulename)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 767, in get_code
+  File "<frozen importlib._bootstrap_external>", line 727, in source_to_code
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "/home/erpnext2/frappe-bench/apps/pni_report_dashboard/pni_report_dashboard/pni_report_dashboard/report/attendence_report_new/attendence_report_new.py", line 9
+    columns = get columns()
+                        ^
+SyntaxError: invalid syntax
+[ERROR] 2020-12-16 11:13:41,424 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-12-16 11:13:41.323626-127.0.0.1-f59
+[ERROR] 2020-12-16 11:13:48,140 | /home/erpnext2/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "cmd": "frappe.desk.query_report.run",
+ "filters": "{}",
+ "report_name": "Attendence Report New"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 64, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1064, in call
+    return fn(*args, **newargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 536, in wrapper_fn
+    retval = fn(*args, **get_newargs(fn, kwargs))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 205, in run
+    result = generate_report_result(report, filters, user, custom_columns)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 65, in generate_report_result
+    res = report.execute_script_report(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 120, in execute_script_report
+    res = self.execute_module(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 137, in execute_module
+    return frappe.get_attr(method_name)(frappe._dict(filters))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1055, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 836, in get_module
+    return importlib.import_module(modulename)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 767, in get_code
+  File "<frozen importlib._bootstrap_external>", line 727, in source_to_code
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "/home/erpnext2/frappe-bench/apps/pni_report_dashboard/pni_report_dashboard/pni_report_dashboard/report/attendence_report_new/attendence_report_new.py", line 9
+    columns = get columns()
+                        ^
+SyntaxError: invalid syntax
+[ERROR] 2020-12-16 11:13:48,245 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-12-16 11:13:48.140954-127.0.0.1-9c8
+[DEBUG] 2020-12-16 11:14:08,095 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:39:23,166 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:15:08,229 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:40:23,335 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:16:08,509 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:41:23,442 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:17:08,644 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:42:23,546 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:18:08,793 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:43:23,669 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:19:08,903 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:44:23,838 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:20:09,088 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:45:23,956 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:21:09,221 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:46:24,074 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:22:09,344 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:47:24,222 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:23:09,467 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:48:24,455 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:24:09,630 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:49:24,587 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:25:09,753 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:50:24,689 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:26:09,881 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:51:24,790 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:27:10,029 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:52:25,056 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:28:10,213 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:53:25,168 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:29:10,333 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:54:25,275 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:30:10,435 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:55:25,390 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:31:10,551 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:56:25,559 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:32:10,836 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:57:25,675 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:33:10,948 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:58:25,795 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:34:11,073 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 22:59:25,907 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:35:11,202 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:00:26,175 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:36:11,418 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:01:26,278 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:37:11,534 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:02:26,386 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:38:11,654 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:03:26,512 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:39:11,776 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:04:26,783 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:40:11,926 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:05:26,892 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:41:12,059 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:06:27,017 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:42:12,168 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:07:27,143 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:43:12,305 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:08:27,388 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:44:12,513 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:09:27,497 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:45:12,678 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:10:27,603 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:46:12,826 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:11:27,704 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:47:12,948 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:12:27,889 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:48:13,196 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:13:27,991 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:49:13,311 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:14:28,093 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:50:13,457 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:15:28,201 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:51:13,581 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:16:28,368 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:52:13,857 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:17:28,480 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:53:14,002 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:18:28,606 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:54:14,141 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:19:28,732 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:55:14,293 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:20:28,939 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:56:14,566 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:21:29,051 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:57:14,676 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:22:29,155 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:58:14,827 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:23:29,256 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 11:59:14,995 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:24:29,530 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:00:15,359 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:25:29,638 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:01:15,493 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:26:29,767 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:02:15,599 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:27:29,912 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:03:15,771 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:28:30,158 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:04:15,960 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:29:30,302 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:05:16,085 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:30:30,435 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:06:16,257 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:31:30,567 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:07:16,363 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:32:30,758 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:08:16,562 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-07 23:33:30,898 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[ERROR] 2020-12-16 12:09:04,893 | /home/erpnext2/frappe-bench/apps/frappe/frappe/app.py:
 Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:31:09,429 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:32:09,708 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:33:09,855 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:34:10,033 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:35:10,222 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:36:10,394 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:37:10,503 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:38:10,605 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:39:10,734 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:40:10,926 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:41:11,047 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:42:11,198 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:43:11,330 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:44:11,502 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:45:11,614 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:46:11,741 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:47:11,847 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:48:12,019 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:49:12,129 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:50:12,247 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:51:12,360 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:52:12,547 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:53:12,683 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:54:12,779 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:55:12,879 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:56:13,040 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:57:13,178 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:58:13,293 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 09:59:13,401 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 10:00:13,672 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 10:01:13,802 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-08 10:02:13,930 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 11:45:27,008 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 11:46:27,188 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 11:47:27,441 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 11:48:27,589 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 11:49:27,739 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 11:50:27,933 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 11:51:28,051 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 11:52:28,241 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 11:53:28,394 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 11:54:28,540 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 11:55:29,053 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 11:56:29,719 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 11:57:29,891 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 11:58:30,044 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 11:59:30,700 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:00:31,050 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:01:31,225 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:02:31,355 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:03:31,482 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:04:31,636 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:05:32,298 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:06:32,453 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:07:32,592 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:08:32,765 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:09:32,901 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:10:33,049 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:11:33,763 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:12:33,913 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:13:34,045 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:14:34,312 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:15:34,448 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:16:34,591 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:17:34,730 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:18:35,487 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:19:35,667 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:20:35,861 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:21:36,001 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:22:36,153 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:23:36,281 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:24:36,428 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:25:36,558 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:26:36,687 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:27:36,846 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:28:37,006 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:29:37,148 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:30:37,289 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:31:37,409 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:32:37,565 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:33:37,727 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:34:38,357 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:35:38,582 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:36:38,842 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:37:39,007 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:38:39,151 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:39:39,313 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:40:39,517 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:41:39,671 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:42:39,810 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:43:39,949 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:44:40,202 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:45:40,339 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:46:40,481 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:47:40,640 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:48:40,826 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:49:40,976 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:50:41,135 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:51:41,293 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:52:41,483 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:53:41,652 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 12:54:41,821 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 23:49:15,938 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 23:50:16,131 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 23:51:16,339 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 23:52:16,554 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 23:53:16,760 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 23:54:16,924 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 23:55:17,100 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 23:56:17,331 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 23:57:17,462 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 23:58:17,657 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-10 23:59:17,859 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-11 00:00:20,926 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-11 00:01:21,336 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-11 00:02:21,586 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-11 00:03:21,733 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-11 00:04:22,076 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-11 00:05:22,286 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-11 00:06:22,449 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-11 00:07:22,589 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-11 00:08:22,759 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-11 00:09:22,946 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-11 00:10:23,079 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-11 00:11:23,217 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-11 00:12:23,374 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-11 00:13:23,536 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-11 00:14:23,839 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Form Dict: {
+ "cmd": "frappe.desk.query_report.run",
+ "filters": "{}",
+ "report_name": "Attendence Report New"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 64, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1064, in call
+    return fn(*args, **newargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 536, in wrapper_fn
+    retval = fn(*args, **get_newargs(fn, kwargs))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 205, in run
+    result = generate_report_result(report, filters, user, custom_columns)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 65, in generate_report_result
+    res = report.execute_script_report(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 120, in execute_script_report
+    res = self.execute_module(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 137, in execute_module
+    return frappe.get_attr(method_name)(frappe._dict(filters))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1055, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 836, in get_module
+    return importlib.import_module(modulename)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 767, in get_code
+  File "<frozen importlib._bootstrap_external>", line 727, in source_to_code
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "/home/erpnext2/frappe-bench/apps/pni_report_dashboard/pni_report_dashboard/pni_report_dashboard/report/attendence_report_new/attendence_report_new.py", line 9
+    columns = get columns()
+                        ^
+SyntaxError: invalid syntax
+[ERROR] 2020-12-16 12:09:04,995 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-12-16 12:09:04.895805-127.0.0.1-60d
+[ERROR] 2020-12-16 12:09:10,803 | /home/erpnext2/frappe-bench/apps/frappe/frappe/app.py:
 Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-11 00:15:24,030 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Form Dict: {
+ "cmd": "frappe.desk.query_report.run",
+ "filters": "{}",
+ "report_name": "Attendence Report New"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 64, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1064, in call
+    return fn(*args, **newargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 536, in wrapper_fn
+    retval = fn(*args, **get_newargs(fn, kwargs))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 205, in run
+    result = generate_report_result(report, filters, user, custom_columns)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 65, in generate_report_result
+    res = report.execute_script_report(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 120, in execute_script_report
+    res = self.execute_module(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 137, in execute_module
+    return frappe.get_attr(method_name)(frappe._dict(filters))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1055, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 836, in get_module
+    return importlib.import_module(modulename)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 767, in get_code
+  File "<frozen importlib._bootstrap_external>", line 727, in source_to_code
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "/home/erpnext2/frappe-bench/apps/pni_report_dashboard/pni_report_dashboard/pni_report_dashboard/report/attendence_report_new/attendence_report_new.py", line 9
+    columns = get columns()
+                        ^
+SyntaxError: invalid syntax
+[ERROR] 2020-12-16 12:09:10,969 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-12-16 12:09:10.804514-127.0.0.1-699
+[DEBUG] 2020-12-16 12:09:16,696 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:16:24,314 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[ERROR] 2020-12-16 12:09:21,761 | /home/erpnext2/frappe-bench/apps/frappe/frappe/app.py:
 Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2020-12-11 00:17:24,562 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Form Dict: {
+ "cmd": "frappe.desk.query_report.run",
+ "filters": "{}",
+ "report_name": "Attendence Report New"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/handler.py", line 64, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1064, in call
+    return fn(*args, **newargs)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 536, in wrapper_fn
+    retval = fn(*args, **get_newargs(fn, kwargs))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 205, in run
+    result = generate_report_result(report, filters, user, custom_columns)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/desk/query_report.py", line 65, in generate_report_result
+    res = report.execute_script_report(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 120, in execute_script_report
+    res = self.execute_module(filters)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/core/doctype/report/report.py", line 137, in execute_module
+    return frappe.get_attr(method_name)(frappe._dict(filters))
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 1055, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/erpnext2/frappe-bench/apps/frappe/frappe/__init__.py", line 836, in get_module
+    return importlib.import_module(modulename)
+  File "/home/erpnext2/frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 767, in get_code
+  File "<frozen importlib._bootstrap_external>", line 727, in source_to_code
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "/home/erpnext2/frappe-bench/apps/pni_report_dashboard/pni_report_dashboard/pni_report_dashboard/report/attendence_report_new/attendence_report_new.py", line 9
+    columns = get columns()
+                        ^
+SyntaxError: invalid syntax
+[ERROR] 2020-12-16 12:09:21,873 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-12-16 12:09:21.762195-127.0.0.1-654
+[DEBUG] 2020-12-16 12:10:16,816 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:18:24,785 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:11:16,940 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:19:24,930 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:12:17,146 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:20:25,125 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:13:17,263 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:21:25,272 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:14:17,379 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:22:25,469 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:15:17,556 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:23:25,609 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:16:17,861 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:24:26,110 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:17:18,015 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:25:26,331 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:18:18,151 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:26:26,488 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:19:18,299 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:27:26,637 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:20:18,486 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:28:26,919 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:21:18,645 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:29:27,085 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:22:18,820 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:30:27,209 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:23:18,941 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:31:27,374 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:24:19,115 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:32:27,594 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:25:19,242 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:33:27,788 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:26:19,370 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:34:27,948 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:27:19,500 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:35:28,067 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:28:19,720 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:36:28,273 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:29:19,849 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:37:28,439 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:30:20,018 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:38:28,705 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:31:20,153 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:39:28,866 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:32:20,330 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:40:29,038 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:33:20,481 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:41:29,174 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:34:20,610 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2020-12-11 00:42:29,284 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-12-16 12:35:20,771 | /home/erpnext2/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local

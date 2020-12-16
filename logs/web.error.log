@@ -261,3 +261,30 @@ pymysql.err.InternalError: (1205, 'Lock wait timeout exceeded; try restarting tr
 [2020-12-10 23:48:04 +0530] [1375] [INFO] Listening at: http://127.0.0.1:8000 (1375)
 [2020-12-10 23:48:04 +0530] [1375] [INFO] Using worker: sync
 [2020-12-10 23:48:04 +0530] [1625] [INFO] Booting worker with pid: 1625
+[2020-12-11 00:45:50 +0530] [1375] [INFO] Handling signal: term
+[2020-12-11 00:45:50 +0530] [1625] [INFO] Worker exiting (pid: 1625)
+[2020-12-11 00:45:51 +0530] [1375] [INFO] Shutting down: Master
+/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/OpenSSL/crypto.py:12: CryptographyDeprecationWarning: Python 3.5 support will be dropped in the next release of cryptography. Please upgrade your Python.
+  from cryptography import x509
+[2020-12-11 10:47:56 +0530] [1458] [INFO] Starting gunicorn 19.10.0
+[2020-12-11 10:47:56 +0530] [1458] [INFO] Listening at: http://127.0.0.1:8000 (1458)
+[2020-12-11 10:47:56 +0530] [1458] [INFO] Using worker: sync
+[2020-12-11 10:47:56 +0530] [2006] [INFO] Booting worker with pid: 2006
+/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/OpenSSL/crypto.py:12: CryptographyDeprecationWarning: Python 3.5 support will be dropped in the next release of cryptography. Please upgrade your Python.
+  from cryptography import x509
+[2020-12-12 09:15:23 +0530] [1423] [INFO] Starting gunicorn 19.10.0
+[2020-12-12 09:15:23 +0530] [1423] [INFO] Listening at: http://127.0.0.1:8000 (1423)
+[2020-12-12 09:15:23 +0530] [1423] [INFO] Using worker: sync
+[2020-12-12 09:15:23 +0530] [2419] [INFO] Booting worker with pid: 2419
+/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/OpenSSL/crypto.py:12: CryptographyDeprecationWarning: Python 3.5 support will be dropped in the next release of cryptography. Please upgrade your Python.
+  from cryptography import x509
+[2020-12-14 09:57:33 +0530] [1394] [INFO] Starting gunicorn 19.10.0
+[2020-12-14 09:57:33 +0530] [1394] [INFO] Listening at: http://127.0.0.1:8000 (1394)
+[2020-12-14 09:57:33 +0530] [1394] [INFO] Using worker: sync
+[2020-12-14 09:57:33 +0530] [2328] [INFO] Booting worker with pid: 2328
+/home/erpnext2/frappe-bench/env/lib/python3.5/site-packages/OpenSSL/crypto.py:12: CryptographyDeprecationWarning: Python 3.5 support will be dropped in the next release of cryptography. Please upgrade your Python.
+  from cryptography import x509
+[2020-12-16 09:35:44 +0530] [1447] [INFO] Starting gunicorn 19.10.0
+[2020-12-16 09:35:44 +0530] [1447] [INFO] Listening at: http://127.0.0.1:8000 (1447)
+[2020-12-16 09:35:44 +0530] [1447] [INFO] Using worker: sync
+[2020-12-16 09:35:45 +0530] [2840] [INFO] Booting worker with pid: 2840
